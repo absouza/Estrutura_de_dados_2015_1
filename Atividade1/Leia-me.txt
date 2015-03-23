@@ -1,1 +1,0 @@
-Atividades referente à primeira lista de exercicios de Estrutura de Dados e Algoritmos, sobre conceitos basicos da linguagem C.
